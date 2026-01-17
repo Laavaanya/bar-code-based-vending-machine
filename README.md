@@ -30,4 +30,16 @@ Handles creating, reading, and modifying Excel files (.xlsx).
 
 <img width="663" height="642" alt="image" src="https://github.com/user-attachments/assets/4341dd5f-2b0c-4160-9338-21bb05b623f2" />
 
+
+**CONFIGURATION:**
+
+
 <img width="826" height="571" alt="image" src="https://github.com/user-attachments/assets/0b9762aa-f677-4332-9d91-ff777240a90a" />
+
+
+**MODEL DEMO:**
+
+
+https://github.com/user-attachments/assets/3c53170e-bcd8-4ea0-916a-01f16f2d47d0
+
+
